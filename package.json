@@ -1,0 +1,16 @@
+{
+  "name": "train-delays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "traindelays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "moment": "^2.18.1",
+    "node-fetch": "^1.7.0"
+  }
+}
